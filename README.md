@@ -12,7 +12,7 @@ language: Brazilian Portuguese.</br>
 </br>
 Esse projeto foi feito com base no vídeo publicado pela youtuber [Rafaella Ballerini](https://www.youtube.com/watch?v=llF6vD-RljE).
 
-Todo o [material](https://github.com/FrBreno/Web_projects/blob/main/Landing%20page_Rafa%20Ballerini/README.md#03-materias-utilizados) e as [tecnologias](https://github.com/FrBreno/Web_projects/blob/main/Landing%20page_Rafa%20Ballerini/README.md#02-tecnologias) utilizadas estão disponíveis neste documento.</br>
+Todo o [material](https://github.com/FrBreno/Landing-page-Balle-bot#03-materias-utilizados) e as [tecnologias](https://github.com/FrBreno/Landing-page-Balle-bot#02-tecnologias) utilizadas estão disponíveis neste documento.</br>
 
 ## 🛠️ Projeto
 
