@@ -11,8 +11,9 @@
 language: Brazilian Portuguese.</br>
 </br>
 Esse projeto foi feito com base no vídeo publicado pela youtuber [Rafaella Ballerini](https://www.youtube.com/watch?v=llF6vD-RljE).
-
 Todo o [material](https://github.com/FrBreno/Landing-page-Balle-bot#03-materias-utilizados) e as [tecnologias](https://github.com/FrBreno/Landing-page-Balle-bot#02-tecnologias) utilizadas estão disponíveis neste documento.</br>
+</br>
+Acesse a Landing page por [esse link](https://frbreno.github.io/Landing-page-Balle-bot/).
 
 ## 🛠️ Projeto
 
