@@ -1,23 +1,25 @@
 # Landing Page - Balle Bot 🤖
 
-</br>
+&nbsp;
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/91495296/147398712-18c4b15d-3707-4eda-a062-fd3fadb4cacc.jpg" />
 </div>
 
+&nbsp;
+
 ## 📃 Descrição
 
-language: Brazilian Portuguese.</br>
-</br>
+language: Brazilian Portuguese.  
+
 Esse projeto foi feito com base no vídeo publicado pela youtuber [Rafaella Ballerini](https://www.youtube.com/watch?v=llF6vD-RljE).
-Todo o [material](https://github.com/FrBreno/Landing-page-Balle-bot#03-materias-utilizados) e as [tecnologias](https://github.com/FrBreno/Landing-page-Balle-bot#02-tecnologias) utilizadas estão disponíveis neste documento.</br>
-</br>
+Todo o [material](https://github.com/FrBreno/Landing-page-Balle-bot#03-materiais-utilizados) e as [tecnologias](https://github.com/FrBreno/Landing-page-Balle-bot#02-tecnologias) utilizadas estão disponíveis neste documento.  
+
 Acesse a Landing page por [esse link](https://frbreno.github.io/Landing-page-Balle-bot/).
 
 ## 🛠️ Projeto
 
-### 01. Breve descrição
+### 01. Objetivo
 
 O objetivo desse projeto é criar uma landing page do Balle Bot (Bot desenvolvido para a [comunidade da Rafa no Discord](https://discord.com/invite/wagxzStdcR)).
 Essa landing page possuí como conteúdo principal algumas informações acerca do bot, um botão para adicionar o bot em seu servidor no Discord, e os seguintes links no menu de navegação
@@ -37,7 +39,7 @@ para redirecionar o usuário:
 
 ---
 
-### 03. Materias utilizados
+### 03. Materiais utilizados
 
 - [Vídeo-Tutorial](https://www.youtube.com/watch?v=llF6vD-RljE)
 - [Layout-Landing page](https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=0%3A1)
